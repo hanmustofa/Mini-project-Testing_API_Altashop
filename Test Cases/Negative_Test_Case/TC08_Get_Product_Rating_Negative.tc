@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_Get_Product_Rating_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b41dc20-0793-4df3-a257-5004d6a00b11</testCaseGuid>
+</TestCaseEntity>

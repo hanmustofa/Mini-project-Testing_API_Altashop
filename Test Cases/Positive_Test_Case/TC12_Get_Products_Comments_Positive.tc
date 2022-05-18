@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12_Get_Products_Comments_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce59fd20-47a6-459f-ae71-06150f7b2b76</testCaseGuid>
+</TestCaseEntity>
